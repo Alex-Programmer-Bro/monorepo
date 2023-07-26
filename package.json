@@ -1,0 +1,7 @@
+{
+  "name": "monorepo",
+  "scripts": {
+    "dev": "pnpm -r --filter app dev",
+    "build": "pnpm -r --filter app build"
+  }
+}
